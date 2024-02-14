@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/../rentabud/.idea/rentabud.iml" filepath="$PROJECT_DIR$/../rentabud/.idea/rentabud.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/rentabud-api.iml" filepath="$PROJECT_DIR$/.idea/rentabud-api.iml" />
     </modules>
   </component>
